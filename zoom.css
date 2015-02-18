@@ -1,0 +1,38 @@
+		.mons{
+			border-radius: 10px 10px 10px 10px;
+		}
+		.imgs{
+			float:left;
+			border-radius: 5px 5px 5px 5px;
+			margin: 2px;
+			padding:2px;
+			width: 80px;
+			height: 80px;
+			text-align: center;
+			border: 1px solid #CCCCCC;
+			overflow:hidden; 
+			cursor: pointer;
+		}
+		#menu_img{
+			float:right;
+			width: 27%;
+		}
+		#img_mostrar{
+			width: 100%;
+		}
+		.img_menu{
+			border: 1px solid #fff;
+		}
+		.img_menu:hover{
+			border: 1px solid #000;
+		}
+		#zoom{
+			position: absolute;
+			border-radius: 50% 50% 50% 50%;
+			border:1px solid #eee;
+			display: none;
+		}
+		#contenedor_img{
+			width: 68%;
+			float: left;
+		}
