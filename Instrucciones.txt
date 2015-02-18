@@ -1,3 +1,5 @@
+http://zoom.webcindario.com/index.php (Ejemplo)
+
 Bienvenidos a Zoom.js (Versión 1.0)
 
 Primer Paso:
