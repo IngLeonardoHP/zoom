@@ -36,3 +36,6 @@ seguidamente de la numeracion de tus imagenes con un script, llamando a la funci
 	numerar('primera');
 	numerar('segunda');
 </script>
+
+
+NOTA: Click izquierdo amplia, Click derecho reduce el tamaño del zoom
