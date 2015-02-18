@@ -1,7 +1,7 @@
 # zoom
 Liberia Zoom.js
 
-https://github.com/IngLeonardoHP/zoom
+http://zoom.webcindario.com/index.php
 
 Creador: Leonardo Hernández
 
