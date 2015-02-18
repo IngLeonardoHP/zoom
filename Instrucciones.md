@@ -40,4 +40,6 @@ seguidamente de la numeracion de tus imagenes con un script, llamando a la funci
 </script>
 
 
-NOTA: Click izquierdo amplia, Click derecho reduce el tamaño del zoom
+Click izquierdo amplia, Click derecho reduce el tamaño del zoom
+
+NOTA: No olvides incluir JQuery.js
